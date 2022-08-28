@@ -1,4 +1,4 @@
-###✨ Hi, I'm Lauriane Moraes ✨
+### ✨ Hi, I'm Lauriane Moraes ✨
  💫Learning Python
  💫Studyng Data Analysis
  💫I'm able to speak in english, portugueses and spanish
